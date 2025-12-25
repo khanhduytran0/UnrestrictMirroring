@@ -1,0 +1,9 @@
+Package: com.kdt.unrestrictmirroring
+Name: UnrestrictMirroring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables iPhone Mirroring while unlocked and Device Hub remote control
+Maintainer: khanhduytran0
+Author: khanhduytran0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 18.0)
