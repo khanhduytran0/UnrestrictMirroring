@@ -1,8 +1,5 @@
 {
 	Filter = {
-		Bundles = (
-			"com.apple.UIKit",
-		);
 		Executables = (
 			dtremotedisplayd,
 			cameracaptured,
